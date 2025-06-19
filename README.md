@@ -61,8 +61,6 @@ This project features a Power BI dashboard that analyzes electric vehicle (EV) d
     <img src="https://github.com/vishwa-desai12/Electric-vehicle-analysis---PowerBI-Dashboard/blob/main/electric%20vehicle%20analysis.png" alt="BlinkIt Dashboard"/>
 </p>
 
-## 🔗 Dataset
-
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk4yVy0ybTJnc2ZqOUxUaFVBV3YxeTVSMll2d3xBQ3Jtc0tuYjhVTDlQVHhmcTZSQ0ZQSjJVUDA0QTlESFpHX3BSX3M1Nkh3V25VQ0NDOWpaMUFzMUxtRHFyeEhXRVhYTDVLN0VCUHdNOFNFanJIbGhvcnRQSkFjVzNEZTdOWGhReHpsaGFnYjV4MlQ5VXpLLWVfMA&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1YviyK5J_0LS9yBb2lNh2Fyap1xlyec7W%3Fusp%3Dsharing&v=qjjt87YoOMg
+## 🔗 Dataset https://drive.google.com/drive/folders/1YviyK5J_0LS9yBb2lNh2Fyap1xlyec7W
 
 

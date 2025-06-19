@@ -1,8 +1,5 @@
-Great! Here's a professional, GitHub-ready `README.md` for your **Electric Vehicle Analysis** Power BI project, written in the same structured style as your Blinkit project:
 
----
-
-# 🚗 Electric Vehicle Analysis Dashboard – Power BI
+#  Electric Vehicle Analysis Dashboard – Power BI
 
 ## 🔍 Overview
 
@@ -66,8 +63,6 @@ This project features a Power BI dashboard that analyzes electric vehicle (EV) d
 
 ## 🔗 Dataset
 
-*(Mention the source link if publicly available, or remove this section if internal)*
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk4yVy0ybTJnc2ZqOUxUaFVBV3YxeTVSMll2d3xBQ3Jtc0tuYjhVTDlQVHhmcTZSQ0ZQSjJVUDA0QTlESFpHX3BSX3M1Nkh3V25VQ0NDOWpaMUFzMUxtRHFyeEhXRVhYTDVLN0VCUHdNOFNFanJIbGhvcnRQSkFjVzNEZTdOWGhReHpsaGFnYjV4MlQ5VXpLLWVfMA&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1YviyK5J_0LS9yBb2lNh2Fyap1xlyec7W%3Fusp%3Dsharing&v=qjjt87YoOMg
 
----
 
-Let me know if you’d like help writing a shorter version for LinkedIn, or uploading instructions for viewers.
